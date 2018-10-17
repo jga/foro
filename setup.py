@@ -33,7 +33,7 @@ setup(
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
     ],
-    description="Tools for tracking and analyzing Austin's City Council FMessage Forum.",
+    description="Tools for tracking and analyzing Austin's City Council Message Forum.",
     entry_points={
         'console_scripts': [
             'foro=foro.cli:main',

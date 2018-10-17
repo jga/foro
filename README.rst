@@ -16,7 +16,7 @@ foro
 
 
 
-Tools for tracking and analyzing Austin's City Council FMessage Forum.
+Tools for tracking and analyzing Austin's City Council Message Forum.
 
 
 * Free software: MIT license
